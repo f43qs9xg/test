@@ -6,3 +6,5 @@ print("aaaaa")
 import tensorflow as tf
 import matplotlib
 import keras
+
+import chainer
